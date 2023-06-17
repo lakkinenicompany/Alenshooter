@@ -1,0 +1,10 @@
+
+Home » DevOps and Development » How to Git Stash Specific Files
+
+
+Contents
+Introduction
+
+Git stash allows users to save their uncommitted files and work in progress to a local stash and go back to the last commit done on the branch (the HEAD). By stashing their work, developers can shift their focus to something else and later resume working on the unfinished code.
+
+Stashing specific files is useful because it allows developers to select and differentiate between files they need to work on and the ones that are ready for committing.
